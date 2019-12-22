@@ -1,3 +1,4 @@
+package com.srishti.tictactoe.model;
 
 public class Move
 {
